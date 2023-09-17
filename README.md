@@ -35,10 +35,15 @@ YOLO Commands (Training and Testing):
 References:
 
 Python: https://www.python.org/downloads/
+
 LabelImg: https://github.com/tzutalin/labelImg
-XML to YOLO Converter: https://github.com/bjornstenger/xml2yolo
+
 YOLOv5: https://github.com/ultralytics/yolov5
+
 LabelImg Annotation Tutorial: https://youtu.be/Tlvy-eM8YO4
+
 YOLOv5 Training Tutorial: https://youtu.be/80Q3HIBy7Qg
+
 YOLOv5 App Making Tutorial: https://youtu.be/ROn1_O2zEtk
+
 Android File Download (GitHub Repository): https://github.com/AarohiSingla/TFLite-Object-Detection-Android-App-Tutorial-Using-YOLOv5.git
