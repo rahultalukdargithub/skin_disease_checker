@@ -1,12 +1,12 @@
 # Main Idea:
 
-The main objective is to create an Android app for Skin Disease Detection using the YOLOv5 model. This involves several steps, including training the YOLOv5 model, converting it into a TensorFlow model, converting the TensorFlow model into a TensorFlow Lite (TFLite) model, setting up Android Studio, and building and running the object detection app. Below are the main steps for creating the Android app:
+The main objective is to create an Android app for Skin Disease Detection using the YOLOv5 model. This involves several steps, including training the YOLOv5 model, converting it into a TensorFlow model, converting the TensorFlow model into a TensorFlow Lite (TFLite) model, setting up Android Studio, and building and running the object detection app. 
+
+# Main Steps for Creating Android App:
 
 Now to train the model with yolo v5 you just have to run the .ipynb file in colab or jupyter notebook wherever you want but give the path of the file in that ipynb file according to your file destination. In my case i have unzipped the dataset first then I did %cd yolov5 so that everything comes under yolov5 file.
 
 After doing so you have to change the .pt file to .tflite in following way---->
-
-# Main Steps for Creating Android App:
 
 Export YOLOv5 Weights to TensorFlow Lite Format:
 
